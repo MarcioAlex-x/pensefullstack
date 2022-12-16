@@ -1,0 +1,20 @@
+/* #alexFreitas{
+    border-radius: 58% 42% 67% 33% / 63% 69% 31% 37%   ;
+}
+#alexxFreitasImg{
+    border-radius: 58% 42% 67% 33% / 63% 69% 31% 37%   ;
+} */
+.background-banner{
+    background-image: url(assets/background-banner.png);
+    background-size: cover;
+}
+.card-1{
+    background-color: white;
+}
+.barra{
+    height: 1px;
+    width: 80%;
+    background-color: black;
+    margin: auto;
+}
+
